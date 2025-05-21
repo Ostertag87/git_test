@@ -1,2 +1,6 @@
 Modification du texte
 Modification de texte 2
+
+
+Je fais un test d'ajouter du texte 
+< !-- Ajout dun commentaire -- >
